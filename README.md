@@ -1,2 +1,5 @@
-# Letsgrowmore-Tasks-
-This repository contains tasks provided by the Letsgrowmore.
+# Letsgrowmore-Tasks
+Web development Internship 
+
+Task-1 = TODO List
+

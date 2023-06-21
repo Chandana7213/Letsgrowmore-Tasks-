@@ -51,4 +51,5 @@ You can aslo fill n number of records
 This is basic calculator developed by html,css and javascript which can perform all the operations.
 ## Screenshots
 ![Screenshot (30)](https://github.com/Chandana7213/Letsgrowmore-Tasks-/assets/131273090/bde05fca-0bb6-4ef3-8fcc-c0f180cd8b74)
+![Screenshot (35)](https://github.com/Chandana7213/Letsgrowmore-Tasks-/assets/131273090/a4f9dd14-1a6d-44e5-ba6f-51305e278109)
 
